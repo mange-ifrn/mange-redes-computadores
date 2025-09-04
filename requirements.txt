@@ -1,0 +1,7 @@
+furo
+myst-parser
+pillow
+rst-to-myst
+sphinx
+sphinx-autobuild
+sphinx-book-theme
